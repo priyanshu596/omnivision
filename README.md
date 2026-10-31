@@ -1,6 +1,6 @@
-# MotiveLayer Engineering — Studio Launch Kit
+# Omnivision — Studio Launch Kit
 
-MotiveLayer Engineering is an independent studio focused on computer vision, applied AI delivery, inference optimization, and production software.
+Omnivision is an independent studio focused on computer vision, applied AI delivery, inference optimization, and production software.
 
 This repository contains the complete brand, website, documentation, and client outreach kit for launching the studio.
 
@@ -9,11 +9,11 @@ This repository contains the complete brand, website, documentation, and client 
 ## 📁 Repository Overview
 
 ```
-motivelayer_launch_kit/
+omnivision/
 ├── site/                                # Static marketing website (GitHub Pages ready)
 │   ├── index.html                       # Responsive studio landing page with real case study
 │   └── assets/                          # Self-contained branding and project assets
-│       ├── favicon.svg                  # Studio icon mark
+│       ├── favicon.svg                  # Omnivision reticle icon mark
 │       ├── logo.svg                     # Wordmark & vector logo
 │       └── case-study/                  # Screenshots from Traffic Surveillance pipeline
 │           ├── analytics-dashboard.png  # Operations Analytics Center preview
@@ -52,17 +52,14 @@ python3 -m http.server 8080
 The repository includes a ready-to-run GitHub Actions workflow in `.github/workflows/deploy.yml`.
 
 To deploy:
-1. Initialize a Git repo and push to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initialize MotiveLayer Engineering launch kit"
-   gh repo create motivelayer-site --public --source=. --remote=origin --push
-   ```
-2. In your repository on GitHub:
-   - Go to **Settings** → **Pages**.
-   - Under **Build and deployment** > **Source**, choose **GitHub Actions**.
-   - The workflow will automatically publish the site to `https://priyanshubcrecgenai2.github.io/motivelayer-site`.
+```bash
+./scripts/deploy_site.sh omnivision-site
+```
+
+The script will:
+1. Create `omnivision-site` on GitHub under your `priyanshubcrecgenai2` account.
+2. Push the `main` branch.
+3. Automatically deploy the `site/` folder to `https://priyanshubcrecgenai2.github.io/omnivision-site`.
 
 ---
 
@@ -77,5 +74,5 @@ To deploy:
 
 ## 📬 Studio Contact
 
-- **Email:** [motivelayer.engineering@gmail.com](mailto:motivelayer.engineering@gmail.com)
+- **Email:** [omnivision.engineering@gmail.com](mailto:omnivision.engineering@gmail.com)
 - **Portfolio Repository:** [github.com/priyanshubcrecgenai2/Traffic_survelliance](https://github.com/priyanshubcrecgenai2/Traffic_survelliance)

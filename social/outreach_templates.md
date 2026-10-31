@@ -1,6 +1,6 @@
 # Outreach Starter Kit
 
-Direct, specific templates for client and agency outreach. Customize the bracketed details for each recipient.
+Direct templates for client and agency outreach. Customize the bracketed details for each recipient.
 
 ---
 
@@ -12,7 +12,7 @@ Hi [Name],
 
 I saw your recent work on [specific client project or capability] at [Company Name].
 
-I run MotiveLayer Engineering, an independent studio focused on computer vision pipelines, inference profiling, and deployment. We help teams with direct implementation capacity for tasks like YOLO detection, ByteTrack tracking, CUDA FP16 acceleration, and containerized Python services.
+I run Omnivision, an independent studio focused on computer vision pipelines, inference profiling, and deployment. We help teams with direct implementation capacity for tasks like YOLO detection, ByteTrack tracking, CUDA FP16 acceleration, and containerized Python services.
 
 If your team has an active engagement or backlog item involving video analytics, pipeline debugging, or latency optimization, I can take on a scoped sprint with agreed acceptance criteria.
 
@@ -24,8 +24,8 @@ Would you have 10 minutes next week to discuss your current pipeline requirement
 Best regards,
 
 Priyanshu
-MotiveLayer Engineering
-motivelayer.engineering@gmail.com
+Omnivision
+omnivision.engineering@gmail.com
 
 ---
 
@@ -37,12 +37,12 @@ Hi [Name],
 
 I came across [Company Name] while researching teams building [specific product or edge vision application].
 
-MotiveLayer Engineering helps product teams debug, benchmark, and deploy computer vision services. If your team is experiencing frame drops, tracker drift, or inference bottlenecks, I can help audit the pipeline and implement targeted optimizations under fixed milestones.
+Omnivision helps product teams debug, benchmark, and deploy computer vision services. If your team is experiencing frame drops, tracker drift, or inference bottlenecks, I can help audit the pipeline and implement targeted optimizations under fixed milestones.
 
 Key areas:
 - Inference acceleration (CUDA FP16 / TensorRT)
 - Spatial polygon analysis and multi-frame rule verification
-- Asynchronous database queues (<0.3ms CV loop overhead)
+- Asynchronous database queues (<0.3 ms CV loop overhead)
 - Docker containerization and RTSP ingest reliability
 
 You can review our public pipeline architecture and benchmarks here:
@@ -53,8 +53,8 @@ Would a short conversation about your current technical bottleneck be helpful?
 Best regards,
 
 Priyanshu
-MotiveLayer Engineering
-motivelayer.engineering@gmail.com
+Omnivision
+omnivision.engineering@gmail.com
 
 ---
 
@@ -71,5 +71,5 @@ If the timing is not right, no problem at all.
 Best regards,
 
 Priyanshu
-MotiveLayer Engineering
-motivelayer.engineering@gmail.com
+Omnivision
+omnivision.engineering@gmail.com

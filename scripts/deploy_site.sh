@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 set -e
 
-REPO_NAME="${1:-motivelayer-site}"
+REPO_NAME="${1:-omnivision-site}"
 
 echo "========================================="
-echo " Deploying MotiveLayer Launch Kit & Site"
+echo " Deploying Omnivision Launch Kit & Site"
 echo "========================================="
 
 if ! command -v gh &> /dev/null; then

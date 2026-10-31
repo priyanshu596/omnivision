@@ -3,7 +3,7 @@
 > An end-to-end video analytics pipeline transforming high-density traffic camera streams into real-time, queryable database events with perspective lane localization and violation streak verification.
 
 - **Public Repository:** [https://github.com/priyanshubcrecgenai2/Traffic_survelliance](https://github.com/priyanshubcrecgenai2/Traffic_survelliance)
-- **Author / Studio:** MotiveLayer Engineering ([priyanshubcrecgenai2](https://github.com/priyanshubcrecgenai2))
+- **Author / Studio:** Omnivision ([priyanshubcrecgenai2](https://github.com/priyanshubcrecgenai2))
 
 ---
 
