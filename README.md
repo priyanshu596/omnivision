@@ -62,7 +62,7 @@ To deploy:
 2. In your repository on GitHub:
    - Go to **Settings** → **Pages**.
    - Under **Build and deployment** > **Source**, choose **GitHub Actions**.
-   - The workflow will automatically publish the site to `https://priyanshu596.github.io/motivelayer-site`.
+   - The workflow will automatically publish the site to `https://priyanshubcrecgenai2.github.io/motivelayer-site`.
 
 ---
 
@@ -78,4 +78,4 @@ To deploy:
 ## 📬 Studio Contact
 
 - **Email:** [motivelayer.engineering@gmail.com](mailto:motivelayer.engineering@gmail.com)
-- **Portfolio Repository:** [github.com/priyanshu596/Traffic_survelliance](https://github.com/priyanshu596/Traffic_survelliance)
+- **Portfolio Repository:** [github.com/priyanshubcrecgenai2/Traffic_survelliance](https://github.com/priyanshubcrecgenai2/Traffic_survelliance)

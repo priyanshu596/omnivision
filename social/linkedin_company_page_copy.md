@@ -6,7 +6,7 @@
 - **Industry:** Software Development
 - **Company Size:** 1 employee (Solo Studio)
 - **Company Type:** Sole Proprietorship / Self-Employed
-- **Website URL:** https://priyanshu596.github.io/motivelayer-site (or custom domain once configured)
+- **Website URL:** https://priyanshubcrecgenai2.github.io/motivelayer-site (or custom domain once configured)
 - **Location:** Remote / India
 - **Logo:** Upload `site/assets/logo.svg` or `site/assets/favicon.svg`
 
@@ -27,7 +27,7 @@ Core technical areas:
 We work on clearly bounded sprints with agreed quantitative acceptance criteria. Every benchmark we share reports the exact hardware, model, and test conditions.
 
 Featured work and open-source implementation:
-https://github.com/priyanshu596/Traffic_survelliance
+https://github.com/priyanshubcrecgenai2/Traffic_survelliance
 
 Project and subcontracting inquiries:
 motivelayer.engineering@gmail.com
@@ -43,7 +43,7 @@ The focus is straightforward: software that runs reliably beyond a demo. Detecti
 We share verified benchmarks, implementation notes, and architecture breakdowns from production systems.
 
 Take a look at our open case study on building a high-throughput traffic video analytics platform:
-https://github.com/priyanshu596/Traffic_survelliance
+https://github.com/priyanshubcrecgenai2/Traffic_survelliance
 
 For sprint subcontracting or technical audits:
 motivelayer.engineering@gmail.com

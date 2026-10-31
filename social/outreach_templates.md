@@ -17,7 +17,7 @@ I run MotiveLayer Engineering, an independent studio focused on computer vision 
 If your team has an active engagement or backlog item involving video analytics, pipeline debugging, or latency optimization, I can take on a scoped sprint with agreed acceptance criteria.
 
 Here is an end-to-end case study covering real-time vehicle tracking, perspective polygon geometry, and asynchronous persistence:
-https://github.com/priyanshu596/Traffic_survelliance
+https://github.com/priyanshubcrecgenai2/Traffic_survelliance
 
 Would you have 10 minutes next week to discuss your current pipeline requirements?
 
@@ -46,7 +46,7 @@ Key areas:
 - Docker containerization and RTSP ingest reliability
 
 You can review our public pipeline architecture and benchmarks here:
-https://github.com/priyanshu596/Traffic_survelliance
+https://github.com/priyanshubcrecgenai2/Traffic_survelliance
 
 Would a short conversation about your current technical bottleneck be helpful?
 

@@ -13,7 +13,7 @@ This document tracks the initial operational setup for MotiveLayer Engineering.
 ---
 
 ## 2. GitHub Setup & Public Profile
-- [x] **Primary Case Study Configured:** [Traffic Surveillance & Spatial Analytics](https://github.com/priyanshu596/Traffic_survelliance) is live, public, and linked across the site and documentation.
+- [x] **Primary Case Study Configured:** [Traffic Surveillance & Spatial Analytics](https://github.com/priyanshubcrecgenai2/Traffic_survelliance) is live, public, and linked across the site and documentation.
 - [x] **Organization Profile README Created:** `github/ORGANIZATION_PROFILE_README.md` is populated with core focus areas, verified metrics, and public repository links.
 - [x] **Case Study Spec Created:** `github/CASE_STUDY_TRAFFIC_SURVEILLANCE.md` provides full technical problem/solution details.
 - [ ] **Optional (Recommended):** Create a GitHub Organization for the studio:
@@ -26,7 +26,7 @@ This document tracks the initial operational setup for MotiveLayer Engineering.
 
 ## 3. Website & Free Hosting (GitHub Pages)
 - [x] **Code & Design Complete:** `site/index.html` updated with modern styling, responsive typography, verified benchmarks, and real project screenshots (`assets/case-study/`).
-- [x] **Placeholders Replaced:** All contact links now point to `motivelayer.engineering@gmail.com` and portfolio links point to `https://github.com/priyanshu596/Traffic_survelliance`.
+- [x] **Placeholders Replaced:** All contact links now point to `motivelayer.engineering@gmail.com` and portfolio links point to `https://github.com/priyanshubcrecgenai2/Traffic_survelliance`.
 - [x] **Local Assets Embedded:** Self-contained logos and screenshots stored in `site/assets/`.
 - [x] **Automated Deployment Workflow Added:** `.github/workflows/deploy.yml` deploys the `site/` folder directly to GitHub Pages on every push to `main`.
 - [ ] **To Publish on GitHub Pages:**
@@ -35,7 +35,7 @@ This document tracks the initial operational setup for MotiveLayer Engineering.
   gh repo create motivelayer-site --public --source=. --remote=origin --push
 
   # Step 2: In GitHub repo settings -> Pages, select Source: "GitHub Actions" (or Deploy from branch -> main /site)
-  # Your site will be live at: https://priyanshu596.github.io/motivelayer-site
+  # Your site will be live at: https://priyanshubcrecgenai2.github.io/motivelayer-site
   ```
 
 ---
@@ -49,7 +49,7 @@ This document tracks the initial operational setup for MotiveLayer Engineering.
   4. Fill in tagline, industry (Software Development), size (1 employee), and website URL.
   5. Upload `site/assets/favicon.svg` or `site/assets/logo.svg` as the profile picture.
   6. Paste the About text from `social/linkedin_company_page_copy.md`.
-  7. Publish the first post announcing the studio and linking to `https://github.com/priyanshu596/Traffic_survelliance`.
+  7. Publish the first post announcing the studio and linking to `https://github.com/priyanshubcrecgenai2/Traffic_survelliance`.
 
 ---
 

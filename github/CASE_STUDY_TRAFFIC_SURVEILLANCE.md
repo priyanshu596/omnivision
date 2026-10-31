@@ -2,8 +2,8 @@
 
 > An end-to-end video analytics pipeline transforming high-density traffic camera streams into real-time, queryable database events with perspective lane localization and violation streak verification.
 
-- **Public Repository:** [https://github.com/priyanshu596/Traffic_survelliance](https://github.com/priyanshu596/Traffic_survelliance)
-- **Author / Studio:** MotiveLayer Engineering ([priyanshu596](https://github.com/priyanshu596))
+- **Public Repository:** [https://github.com/priyanshubcrecgenai2/Traffic_survelliance](https://github.com/priyanshubcrecgenai2/Traffic_survelliance)
+- **Author / Studio:** MotiveLayer Engineering ([priyanshubcrecgenai2](https://github.com/priyanshubcrecgenai2))
 
 ---
 
@@ -116,7 +116,7 @@ In accordance with our engineering principles, we document operational constrain
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/priyanshu596/Traffic_survelliance.git
+git clone https://github.com/priyanshubcrecgenai2/Traffic_survelliance.git
 cd Traffic_survelliance
 
 # 2. Virtual environment setup

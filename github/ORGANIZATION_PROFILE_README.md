@@ -17,12 +17,12 @@ MotiveLayer Engineering is an independent studio focused on computer vision, app
 
 ### 📂 Featured Technical Work
 
-#### [Traffic Surveillance & Spatial Analytics Platform](https://github.com/priyanshu596/Traffic_survelliance)
+#### [Traffic Surveillance & Spatial Analytics Platform](https://github.com/priyanshubcrecgenai2/Traffic_survelliance)
 An end-to-end video analytics system that turns raw traffic camera streams into real-time structured, searchable database events.
 - **Architecture:** YOLOv11 FP16 on CUDA Tensor Cores + ByteTrack tracker + 4-point perspective polygon evaluation (`cv2.pointPolygonTest`) evaluated at the tire-contact point (`cx, y2`).
 - **Performance:** 25–35+ FPS on 720p/1080p feeds; decoupled asynchronous database worker maintaining <0.3ms disk write latency.
 - **Operations:** Web-based first-frame polygon configurator, real-time MJPEG stream HUD, and live Chart.js operations analytics center.
-- **Codebase:** [github.com/priyanshu596/Traffic_survelliance](https://github.com/priyanshu596/Traffic_survelliance)
+- **Codebase:** [github.com/priyanshubcrecgenai2/Traffic_survelliance](https://github.com/priyanshubcrecgenai2/Traffic_survelliance)
 
 ---
 
@@ -40,5 +40,5 @@ An end-to-end video analytics system that turns raw traffic camera streams into 
 We are available for scoped engineering engagements, technical audits, and subcontracting sprints.
 
 - **Primary Contact:** [motivelayer.engineering@gmail.com](mailto:motivelayer.engineering@gmail.com)
-- **GitHub Portfolio:** [github.com/priyanshu596](https://github.com/priyanshu596)
+- **GitHub Portfolio:** [github.com/priyanshubcrecgenai2](https://github.com/priyanshubcrecgenai2)
 - **Scope Discussions:** Contact with target hardware, video sample/specs, and required acceptance criteria.
