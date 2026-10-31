@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / scratch
+scratch/
+test.png
